@@ -1,1 +1,1 @@
-
+The purpose of my project is to compare parts of iris data as well as exercise data. With this, I compared sepal length and width to petal length and width to analyze the species. With this exercise data, I compared how heart rate is affected by diet and exercise. To use my project, I took the dataset as input and different types of plots for the output. My program includes a library of seaborn. 
